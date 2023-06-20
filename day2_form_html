@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form</title>
+</head>
+<body bgcolor=" lightblue">
+  <center ><h1>Student Form</h1></center>
+  <hr>
+    <form action=""></form>
+   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRRzkXmVeRXZcXnc6zwPSGoAguXrGW09NFMwVeiexWW2zNDTmFNdkdM0zwBZWdgVndyI8&usqp=CAU" alt=""width="100" height="100"align="right">
+Name:<input type="text"name="inputname" maxlength="10"> <br><br>
+Last Name: <input type="text" name="inputname " maxlength="">
+ <br><br>
+ Emrollnment:<input type="text" passward="inputpassward" maxlength="20" ><br><br>
+ Branch: <input type="text"Branch="input"><br><br>
+ Sem: <input type="text" name="text" maxlength="1"><br><br>
+ E-Mail: <input type="email" name="email" id=""><br><br>
+ D.O.B: <input type="date" name="date of birth" id=""><br><br>
+Gender:
+ Male<input type="radio" name="gender" id="g1">Female <input type="radio" name="gender" id="g2"><br><br>
+Address: <textarea name="address" id="" cols="50" rows="2"></textarea><br><br>
+ Phone No <input type="text" maxlength="10"><br><br>
+ <center><input type="reset" value="reset" style="background-color: rgb(241, 6, 6)">
+    <input type="button" value="Submit" style="background-color: green"></center>
+    
+</body>
+</html>
